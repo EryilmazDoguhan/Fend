@@ -1,6 +1,6 @@
 # Acil Frontend Developer Şartlar
 # Ücret
-Ücret konusunda gönüllü çalışacak biri.
+Ücret konusunda değişkenlik gösterilebilir sudo apt install happiness#2319 'e ulaşın
 # Ne Yapacak
 erytech.org u baştan düzenleyecek
 # Nereden Ulaşabilirim
